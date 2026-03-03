@@ -23,8 +23,8 @@ The web page is built with HTML and CSS and hosted locally inside the VM.
 ### 1. Initialize Vagrant
 
 ```bash
-mkdir nginx-vm
-cd nginx-vm
+mkdir mini-portfolio
+cd mini-portfolio
 vagrant init ubuntu/focal64
 ```
 
