@@ -4,7 +4,7 @@
 
 This project demonstrates how to deploy an Ubuntu Focal 64 virtual machine using Vagrant and serve a static mini profile web page using **Nginx**.
 
-The web page is built with HTML and CSS and hosted locally inside the VM.
+The web page is built with HTML and hosted locally inside the VM.
 
 ---
 
