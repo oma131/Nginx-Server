@@ -38,7 +38,8 @@ Start the VM:
 
 ```bash
 vagrant up
-vagrant ssh
+vagrant ssh\
+sudo -i
 ```
 
 ---
